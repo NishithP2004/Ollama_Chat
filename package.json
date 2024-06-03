@@ -1,5 +1,5 @@
 {
-  "name": "llm_ctf",
+  "name": "ollama-chat",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
